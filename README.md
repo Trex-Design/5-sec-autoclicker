@@ -2,3 +2,5 @@
 This is an Auto clicker made for cps calculator. Its nothing special but, It works great.
 # Packages you need.
 Assuming You have pip and python installed, 'Pip3 install pynput' type that command in the terminal and it should be working.
+# This Auto clicker was created to click in a cps calculator website
+https://clickspeedtest.com/
